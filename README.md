@@ -20,4 +20,3 @@ Titanic - Machine Learning from Disaster (Kaggle)
 - Pandas
 - Matplotlib
 - Scikit-learn
-
