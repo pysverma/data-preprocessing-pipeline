@@ -21,5 +21,3 @@ Titanic - Machine Learning from Disaster (Kaggle)
 - Matplotlib
 - Scikit-learn
 
-## Author
-Piyush Verma
